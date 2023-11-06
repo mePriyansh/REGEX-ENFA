@@ -1,0 +1,8 @@
+/* CSS for centering the image */
+.center-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Center vertically on the entire viewport height */
+    background-color: black;
+}
